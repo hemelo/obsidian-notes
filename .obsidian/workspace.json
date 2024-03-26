@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0340f721cdb8491",
+        "id": "50a6255ab5610737",
         "type": "tabs",
         "children": [
           {
-            "id": "767e5615afb89370",
+            "id": "d1b8fff0f3b89b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versionamento/Git.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versionamento/Git.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versionamento/Git.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versionamento/Git.md"
+                "file": "Home.md"
               }
             }
           },
@@ -171,11 +171,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "767e5615afb89370",
+  "active": "d1b8fff0f3b89b82",
   "lastOpenFiles": [
+    "Home.md",
     "obsidian-notes",
     "Mercado/Comunicação Empresarial.md",
-    "Home.md",
     "Software Engineering/Functional Programming/Beginning.md",
     "Images/Pasted image 20240217132859.png",
     "Software Engineering/Requisitos.md",
@@ -207,7 +207,6 @@
     "Linguagens/Javascript/Advanced Concepts.md",
     "Linguagens/Javascript",
     "Linguagens/Java",
-    "Linguagens",
     "Images/top-10-hsm-use-cases-2021-infographic.webp",
     "Images/Untitled 1.canvas",
     "Images/Pasted image 20230522221256.png",
