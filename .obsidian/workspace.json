@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Mercado/Comunicação Empresarial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Mercado/Comunicação Empresarial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Mercado/Comunicação Empresarial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Mercado/Comunicação Empresarial.md"
               }
             }
           },
@@ -166,41 +166,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "d1b8fff0f3b89b82",
   "lastOpenFiles": [
+    "Administração/Gestão de Qualidade.md",
+    "Administração/Marketing.md",
     "Home.md",
+    "Inglês/Vocabulary.md",
+    "Software Engineering/Requisitos.md",
+    "Blockchain/Introdução.md",
+    "Software Engineering/Functional Programming/Beginning.md",
+    "Software Engineering/UX/Introdução a UX.md",
+    "Versionamento/Git.md",
+    "Code Snippets/Typescript Snippets.md",
+    "Linguagens/Typescript/Advanced Concepts.md",
+    "Linguagens/Javascript/Functions/Bind, Call and Apply.md",
+    "Linguagens/Java/Lombok.md",
+    "Excalidraw/Drawing 2024-02-01 21.58.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 21.10.56.excalidraw.md",
+    "Code Snippets/MYSQL Snippets.md",
     "obsidian-notes",
     "Mercado/Comunicação Empresarial.md",
-    "Software Engineering/Functional Programming/Beginning.md",
     "Images/Pasted image 20240217132859.png",
-    "Software Engineering/Requisitos.md",
-    "Linguagens/Java/Lombok.md",
     "Software Engineering/Functional Programming",
-    "Excalidraw/Drawing 2024-02-01 21.58.35.excalidraw.md",
-    "Versionamento/Git.md",
-    "Blockchain/Introdução.md",
-    "Administração/Marketing.md",
-    "Administração/Gestão de Qualidade.md",
     "Code Design/Clean Code.md",
     "CyberSecurity/Forense Digital/Análise Forense de Documentos.md",
-    "Excalidraw/Drawing 2024-01-22 21.10.56.excalidraw.md",
-    "Inglês/Vocabulary.md",
     "Versionamento",
-    "UX/Introdução a UX.md",
-    "UX",
+    "Software Engineering/UX",
     "Software Engineering",
     "Mercado/Modelo Canvas.md",
     "Mercado",
     "Linguagens/Typescript/Typescript Config.md",
-    "Linguagens/Typescript/Advanced Concepts.md",
     "Linguagens/Typescript",
     "Linguagens/Javascript/Functions/Functions.md",
-    "Linguagens/Javascript/Functions/Bind, Call and Apply.md",
     "Linguagens/Javascript/Functions",
     "Linguagens/Javascript/Pipeline Operators.md",
     "Linguagens/Javascript/ECMAScript.md",
@@ -217,7 +219,6 @@
     "Images/Pasted image 20230520142005.png",
     "Images/Pasted image 20230520141822.png",
     "Images/Pasted image 20230520141724.png",
-    "Images/2023-02-01.md",
-    "CyberSecurity/Desenvolvimento Seguro/Criptografia/PKCS.md"
+    "Images/2023-02-01.md"
   ]
 }
