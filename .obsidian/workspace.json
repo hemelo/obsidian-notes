@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mercado/Comunicação Empresarial.md",
+                "file": "Redes de Computadores/Tenebaum - Síntese.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mercado/Comunicação Empresarial.md",
+                "file": "Redes de Computadores/Tenebaum - Síntese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mercado/Comunicação Empresarial.md",
+                "file": "Redes de Computadores/Tenebaum - Síntese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mercado/Comunicação Empresarial.md"
+                "file": "Redes de Computadores/Tenebaum - Síntese.md"
               }
             }
           },
@@ -174,6 +174,9 @@
   "active": "d1b8fff0f3b89b82",
   "lastOpenFiles": [
     "Administração/Gestão de Qualidade.md",
+    "Redes de Computadores/Tenebaum - Síntese.md",
+    "Redes de Computadores",
+    "Mercado/Comunicação Empresarial.md",
     "Administração/Marketing.md",
     "Home.md",
     "Inglês/Vocabulary.md",
@@ -190,7 +193,6 @@
     "Excalidraw/Drawing 2024-01-22 21.10.56.excalidraw.md",
     "Code Snippets/MYSQL Snippets.md",
     "obsidian-notes",
-    "Mercado/Comunicação Empresarial.md",
     "Images/Pasted image 20240217132859.png",
     "Software Engineering/Functional Programming",
     "Code Design/Clean Code.md",
@@ -208,7 +210,6 @@
     "Linguagens/Javascript/ECMAScript.md",
     "Linguagens/Javascript/Advanced Concepts.md",
     "Linguagens/Javascript",
-    "Linguagens/Java",
     "Images/top-10-hsm-use-cases-2021-infographic.webp",
     "Images/Untitled 1.canvas",
     "Images/Pasted image 20230522221256.png",
@@ -218,7 +219,6 @@
     "Images/Pasted image 20230520183602.png",
     "Images/Pasted image 20230520142005.png",
     "Images/Pasted image 20230520141822.png",
-    "Images/Pasted image 20230520141724.png",
-    "Images/2023-02-01.md"
+    "Images/Pasted image 20230520141724.png"
   ]
 }

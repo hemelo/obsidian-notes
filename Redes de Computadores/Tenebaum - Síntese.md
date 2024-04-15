@@ -1,0 +1,1 @@
+Breve síntese de todos os parágrafos e notas que considerei importante durante a leitura do livro de Tenebaum
