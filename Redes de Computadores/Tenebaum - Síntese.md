@@ -89,6 +89,10 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 ### Comutação de pacotes
 
 - Os principais proponentes da con1utação de pacotes vêm da comunidade da Internet. Em um projeto não orientado a conexões, cada pacote é roteado independenten1ente um do outro.
+- Se alguns roteadores deixarem de funcionar durante un1a sessão de comunicação, nenhum dano será provocado desde que o sistema possa ser recon-
+figurado dina1nica1nente, de 1nodo que os pacotes subse-
+quentes encontre1n algun1a rota até o destino, mesn10 que
+seja diferente daquele que os pacotes anteriores usaram.
 
 
 
