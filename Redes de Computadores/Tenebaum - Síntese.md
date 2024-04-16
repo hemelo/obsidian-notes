@@ -1,5 +1,7 @@
 Breve síntese de todos os parágrafos e notas que sobre termos e conteúdos que não estavam tão claros para mim durante a leitura do livro de Tenebaum
 
+## Introdução
+
 - Tradicionalmente, as redes de trânsito são conhecidas como **<font color="#953734">redes de backbone</font>,** pois têm a função de transportar o tráfego entre duas extremidades.
 - A maioria das WANs, a rede contém muitas linhas de transmissão, cada uma conectando um par de roteadores. Dois roteadores que não cornpartilham uma linha de transmissão precisam fazer isso por rneio de outros roteadores.
 - Pode haver muitos caminhos na rede conectando dois roteadores. 
@@ -8,7 +10,7 @@ Breve síntese de todos os parágrafos e notas que sobre termos e conteúdos que
 - as organizações distribuídas por regiões geográficas e que precisa1n conectar seus locais estão projetando e implantando as chamadas WANs definidas por software (ou SD-WANs), que usam tecnologias diferentes e complementares para conectar diversos locais, inas fornecem um único acordo de nível de serviço, ou SLA (Service-Levei Agreement) por toda a rede. Por exemplo, uma rede pode usar uma combinação de li- nhas alugadas dedicadas e mais caras para conectar vários.
 - O dispositivo que faz uma conexão entre duas ou mais redes e oferece a conversão necessária, tanto em termos de hardware quanto de software, é um <font color="#953734">gateway</font>. Os gateways são distinguidos pela camada em que operam na hierarquia de protocolos.
 
-## Arpanet
+### Arpanet
 
 Vários anos se passaram e o Departamento de Defesa dos Estados Unidos ainda não tinha um sistema melhor de comando e controle. Para entender o que aconteceu e1n seguida, temos de retornar a outubro de 1957, quando a União Soviética derrotou os Estados Unidos na corrida espacial com o lançamento do pri1neiro satélite artificial, o Sputnik. 
 Quando tentou descobrir quem tinha "dormido no ponto'', o Presidente Dwight Eisenhower acabou detectando a disputa entre o Exército, a Marinha e a Força Aérea pelo orçamento de pesquisa do Pentágono. Sua resposta imediata foi criar uma <font color="#953734">organização centralizada</font>
@@ -31,7 +33,7 @@ Os testes foram mostrando que era necessário que todas estas redes usassem uma 
 
 Para facilitar a transição e garantir que todas as redes regionais pudessem se cornunicar entre si, a NSF contratou quatro diferentes operadoras de redes para estabelecer um ponto de acesso de rede, ou <font color="#953734">NAP (Network Access Point).</font>
 
-## Arquitetura da Internet
+### Arquitetura da Internet
 
 ![[Pasted image 20240416065924.png]]
 
@@ -57,7 +59,7 @@ Por convenção, a arquitetura da Internet tem sido vista como uma hierarquia, c
 
 O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hipergigantes", incluindo Google, Netflix, Twitch e Amazon, além de CDNs grandes e distribuídas globalmente, corno Akamai, Limelight e Cloudflare. Eles mudaram a arquitetura da Internet mais uma vez. Embora, no passado, esses provedores de conteúdo tivessem que depender de redes de trânsito para entregar conteúdo a ISPs de acesso local, tanto ISPs de acesso quanto provedores de conteúdo se proliferaram e se tornaram tão grandes que muitas vezes se conectam diretan1ente uns aos outros em muitos locais distintos. Às vezes, o caminho comum da Internet será diretamente do seu ISP de acesso ao provedor de conteúdo. Em alguns casos, o provedor de conteúdo até mesmoo hospedará servidores dentro da rede do ISP de acesso.
 
-### Rede Móvel
+#### Rede Móvel
 
 - <font color="#953734">E-UTRAN (Evolved UMTS Terrestrial Radio Access Network)</font>, que é um nome sofisticado para o protocolo de comunicação por rádio usado pelo ar entre os dispositivo móveis (p. ex ., o telefone celular)
 - Estação-base celular, que agora é chamado de eNodeB. 
@@ -84,7 +86,9 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 >
 >Outra consideração iinportante é a privacidade. Os sinais sem fio são transn1itidos para todos os receptores vizinhos, de modo que, para dificultar a escuta das conversas, chaves criptográficas no cartão SIM são usadas para encriptar as trans1nissões. Essa técnica oferece un1a priva- cidade muito melhor do que os sistemas 1G, que eram facilmente interceptados, mas não resolve todos os problemas, em virtude das deficiências nos esquemas de encriptação.
 
+### Comutação de pacotes
 
+- Os principais proponentes da con1utação de pacotes vêm da comunidade da Internet. Em um projeto não orientado a conexões, cada pacote é roteado independenten1ente um do outro.
 
 
 
