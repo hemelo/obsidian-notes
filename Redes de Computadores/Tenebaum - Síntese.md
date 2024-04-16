@@ -50,3 +50,7 @@ Para facilitar a transição e garantir que todas as redes regionais pudessem se
 - Um IXP é uma sala cheia de roteadores, pelo menos um por ISP. 
 - Uma LAN na sala conecta todos os roteadores, de modo que os pacotes podem ser encaminhados de qualquer backbone ISP para qualquer outro backbone ISP. 
 - Os IXPs podem ser instalações grandes e independentes, que competem entre si por negócios
+
+
+
+Por convenção, a arquitetura da Internet tem sido vista como uma hierarquia, com os provedores de nível 1 no topo e outras redes mais abaixo, dependendo se são grandes redes regionais ou redes de acesso menores
