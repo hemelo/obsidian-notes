@@ -64,5 +64,15 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 - <font color="#953734">UMTS (Universal Mobile telecommunications System) </font>é o nome formal da rede de telefonia celular.
 - A interface do ar é baseada em <font color="#953734">CDMA (Code Division Multiple Access)</font>
 - A estação-base da rede celular forma, com seu controlador, a rede de acesso por rádio. Essa parte é o lado sem fio da rede de telefonia Lnóvel. O nó controlador ou <font color="#953734">RNC (Radio Network Controller)</font> controla como o espectro é utilizado. A estação-base implementa a interface com o ar.
+- O restante da rede de telefonia móvel transporta o tráfego para a rede de acesso por rádio. Ela é chan1ada núcleo da rede. Em redes 4G, seu núcleo passou a ser comutado por pacotes, e agora é chamado de <font color="#953734">EPC (Evolved Packet Core).</font>
+- o 4G EPC completou a transição para uma rede de núcleo totahnente comutada por pacotes. O sistema 5G também é totalmente digital.
+- Para transportar dados, os nós do núcleo da rede UMTS se conectam diretamente a uma rede de comutação de pacotes. O <font color="#953734">S-GW (Serving Network Gateway)</font> e o <font color="#953734">P-GW (Packet Data Network Gateway) </font>entregam pacotes de dados de e para smartphones e se conectama redes externas de pacotes, como a Internet.
 
 ![[Pasted image 20240416072424.png]]
+
+Outra diferença entre redes de telefonia móvel e a In-
+ternet tradicional é a mobilidade. Quando um usuário sai do
+alcance de uma estação-base celular e entra no alcance de
+outra, o fluxo de dados deve ser redirecionado da estação-
+-base antiga para a nova. Essa técnica é conhecida como
+transferência (handover ou handoft)
