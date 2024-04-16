@@ -51,6 +51,8 @@ Para facilitar a transição e garantir que todas as redes regionais pudessem se
 - Uma LAN na sala conecta todos os roteadores, de modo que os pacotes podem ser encaminhados de qualquer backbone ISP para qualquer outro backbone ISP. 
 - Os IXPs podem ser instalações grandes e independentes, que competem entre si por negócios
 
-
-
 Por convenção, a arquitetura da Internet tem sido vista como uma hierarquia, com os provedores de nível 1 no topo e outras redes mais abaixo, dependendo se são grandes redes regionais ou redes de acesso menores
+
+![[Pasted image 20240416071856.png]]
+
+O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hipergigantes", incluindo Google, Netflix, Twitch e Amazon, além de CDNs grandes e distribuídas globalmente, corno Akamai, Limelight e Cloudflare. Eles mudaram a arquitetura da Internet mais uma vez. Embora, no passado, esses provedores de conteúdo tivessem que depender de redes de trânsito para entregar conteúdo a ISPs de acesso local, tanto ISPs de acesso quanto provedores de conteúdo se proliferaram e se tornaram tão grandes que muitas vezes se conectam diretan1ente uns aos outros em muitos locais distintos. Às vezes, o caminho comum da Internet será diretamente do seu ISP de acesso ao provedor de conteúdo. Em alguns casos, o provedor de conteúdo até mesmoo hospedará servidores dentro da rede do ISP de acesso.
