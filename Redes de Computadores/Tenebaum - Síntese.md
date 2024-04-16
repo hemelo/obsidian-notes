@@ -23,9 +23,11 @@ Inicialmente a ARPANET tinha quatro “nós”. Em 1981, já eram mais de 200 co
 Apesar do crescimento, a ARPANET era apenas “uma” rede. O pulo do gato, que levou à criação da Internet como a conhecemos, foi a conexão dela a outras redes de pesquisa que surgiram mais tarde, como a NSFNet, a NASA Science Network e redes educacionais como 
 a Bitnet e CSNET, que conectavam universidades nos EUA.
 
-Para ter algo concreto com que começar, a NSF decidiu construir uma rede de backbone para conectar seus seis centros de supercomputadores. Utilizavam do mesmo hardware da ARPANET. Contudo, a tecnologia de software era diferente: os fuzzballs se comunicavam diretamente com o TCP/IP desde o início, criando assim a prüneira WAN TCP/IP.
+Para ter algo concreto com que começar, a NSF decidiu construir uma rede de backbone para conectar seus seis centros de supercomputadores. Utilizavam do mesmo hardware da ARPANET. Contudo, a tecnologia de software era diferente: os fuzzballs se comunicavam diretamente com o TCP/IP desde o início, criando assim a primeira WAN TCP/IP.
 
-Ela se conectava à ARPANET por meio de um link entre um IMP e um fuzzball.
+A rede completa, incluindo o backbone e as redes regionais, foi chamada NSFNET. Ela se conectava à ARPANET por meio de um link entre um IMP e um fuzzball.
 
 Os testes foram mostrando que era necessário que todas estas redes usassem uma “linguagem”, ou protocolo comum. Isso foi resolvido a partir de 1974 com a criação do Transmission Control Program (TCP). Junto com o protocolo IP ele se tornou o TCP/IP, que é a base para todas as conexões à Internet até hoje. Aliás o documento que detalha o TCP, chamado [RFC 675](https://tools.ietf.org/html/rfc675), contém o primeiro uso registrado da palavra _Internet_, referente à uma conexão entre redes – a rede mundial de computadores.
+
+Para facilitar a transição e garantir que todas as redes regionais pudessem se cornunicar entre si, a NSF contratou quatro diferentes operadoras de redes para estabelecer um ponto de acesso de rede, ou <font color="#953734">NAP (Nenvork Access Point).</font>
 
