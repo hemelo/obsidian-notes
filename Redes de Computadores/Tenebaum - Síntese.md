@@ -73,13 +73,23 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 - Outra diferença entre redes de telefonia móvel e a Internet tradicional é a mobilidade. Quando um usuário sai do alcance de uma estação-base celular e entra no alcance de outra, o fluxo de dados deve ser redirecionado da estação-base antiga para a nova. Essa técnica é conhecida como transferência <span style="background:#ff4d4f">(handover ou handoft)</span>
 - Ou o dispositivo móvel ou a estação-base podem solicitar uma transferência quando a qualidade do sinal cai. Em algumas redes de celular, normalmente nas baseadas na tecnologia CDMA, é possível conectar-se à nova estação-base antes de se desconectar da estação antiga. Isso melhora a qualidade da conexão para o smartphone, pois não existe interrupção no serviço - o aparelho fica conectado a duas estações-base por um pequeno período. Esse modo de fazer uma transferência é chamado de <span style="background:#ff4d4f">soft handover.</span>
 
-*Como encontrar um aparelho móvel em primeiro lugar quando existe urna chamada?*
+>[!INFO]
+>*Como encontrar um aparelho móvel em primeiro lugar quando existe urna chamada?*
+>
+>Cada rede de telefonia móvel tem um <font color="#953734">HSS (Home Subscriber Server) </font>no núcleo da rede, que sabe o local de cada assinante, bem cotno outras informações de perfil usadas para autenticação e autorização. Desse modo, cada aparelho poderá ser encontrado contatando o HSS.
+>
+>O chip é chamado informalmente de cartão SIM, abreviação de <font color="#953734">Subscriber ldentity Module </font>(módulo de identificação do assinante).
 
-Cada rede de telefonia móvel tem um HSS (Home Subs-
-criber Server) no núcleo da rede, que sabe o local de cada
-assinante, bem cotno outras informações de perfil usadas
-para autenticação e autorização. Desse modo, cada apare-
-lho poderá ser encontrado contatando o HSS.
+
+
+
+
+
+
+
+
+
+
 
 
 
