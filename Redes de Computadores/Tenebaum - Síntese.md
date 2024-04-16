@@ -6,13 +6,13 @@ Breve síntese de todos os parágrafos e notas que sobre termos e conteúdos que
 - A maioria das WANs, a rede contém muitas linhas de transmissão, cada uma conectando um par de roteadores. Dois roteadores que não cornpartilham uma linha de transmissão precisam fazer isso por rneio de outros roteadores.
 - Pode haver muitos caminhos na rede conectando dois roteadores. 
 - O processo em que o roteador torna a decisão sobre qual caminho usar é charnado de algoritmo de roteamento. Como cada roteador torna a decisão quanto a onde enviar um pacote em seguida é chamado de <font color="#953734">algoritmo de encaminhamento</font>.
-- Muitas WANs de fato serão redes interligadas, ou redes compostas, que são criadas a partir de 1nais de urna rede.
-- as organizações distribuídas por regiões geográficas e que precisa1n conectar seus locais estão projetando e implantando as chamadas WANs definidas por software (ou SD-WANs), que usam tecnologias diferentes e complementares para conectar diversos locais, inas fornecem um único acordo de nível de serviço, ou SLA (Service-Levei Agreement) por toda a rede. Por exemplo, uma rede pode usar uma combinação de li- nhas alugadas dedicadas e mais caras para conectar vários.
+- Muitas WANs de fato serão redes interligadas, ou redes compostas, que são criadas a partir de mais de urna rede.
+- as organizações distribuídas por regiões geográficas e que precisam conectar seus locais estão projetando e implantando as chamadas WANs definidas por software (ou SD-WANs), que usam tecnologias diferentes e complementares para conectar diversos locais, inas fornecem um único acordo de nível de serviço, ou SLA (Service-Levei Agreement) por toda a rede. Por exemplo, uma rede pode usar uma combinação de li- nhas alugadas dedicadas e mais caras para conectar vários.
 - O dispositivo que faz uma conexão entre duas ou mais redes e oferece a conversão necessária, tanto em termos de hardware quanto de software, é um <font color="#953734">gateway</font>. Os gateways são distinguidos pela camada em que operam na hierarquia de protocolos.
 
 ### Arpanet
 
-Vários anos se passaram e o Departamento de Defesa dos Estados Unidos ainda não tinha um sistema melhor de comando e controle. Para entender o que aconteceu e1n seguida, temos de retornar a outubro de 1957, quando a União Soviética derrotou os Estados Unidos na corrida espacial com o lançamento do pri1neiro satélite artificial, o Sputnik. 
+Vários anos se passaram e o Departamento de Defesa dos Estados Unidos ainda não tinha um sistema melhor de comando e controle. Para entender o que aconteceu em seguida, temos de retornar a outubro de 1957, quando a União Soviética derrotou os Estados Unidos na corrida espacial com o lançamento do primeiro satélite artificial, o Sputnik. 
 Quando tentou descobrir quem tinha "dormido no ponto'', o Presidente Dwight Eisenhower acabou detectando a disputa entre o Exército, a Marinha e a Força Aérea pelo orçamento de pesquisa do Pentágono. Sua resposta imediata foi criar uma <font color="#953734">organização centralizada</font>
 <font color="#953734">de pesquisa de defesa, a ARPA, ou Advanced Research Projetcs Agency. </font>A ARPA não tinha cientistas nem laboratórios; de fato, ela não tinha nada além de um escritório e
 de um pequeno orçan1ento (para os padrões do Pentágono).
@@ -37,7 +37,7 @@ Para facilitar a transição e garantir que todas as redes regionais pudessem se
 
 ![[Pasted image 20240416065924.png]]
 
-- A rede a cabo, às vezes cha1nada de rede híbrida fibra-coaxial, ou <font color="#953734">HFC (Hybrid Fiber-Coaxial)</font>, é uma única infraestrutura integrada que utiliza um transporte baseado em pacotes, chamado <font color="#953734">DOCSIS (Data Over Cable Service Interface Specification),</font> para trans1nitir diversos serviços de dados, incluindo canais de televisão, dados de alta velocidade e voz. 
+- A rede a cabo, às vezes chamada de rede híbrida fibra-coaxial, ou <font color="#953734">HFC (Hybrid Fiber-Coaxial)</font>, é uma única infraestrutura integrada que utiliza um transporte baseado em pacotes, chamado <font color="#953734">DOCSIS (Data Over Cable Service Interface Specification),</font> para transmitir diversos serviços de dados, incluindo canais de televisão, dados de alta velocidade e voz. 
 - O dispositivo na residência é chamado modem a cabo, e o dispositivo no terminal de cabo é chamado <font color="#953734">CMTS (Cable Modem Termination System)</font>. A palavra modem é uma contração de "modulador/demodulador" e refere-se a qualquer dispositivo que faz a conversão entre bits digitais e sinais analógicos.
 - Outra opção para a implantação da última milha envolve o uso de fibra óptica até as residências, usando urna tecnologia conhecida como <font color="#953734">FTTH (Fiber to the Home).</font> 
 - Para empresas em áreas comerciais, pode fazer sentido alugar uma linha de transmissão dedicada, de alta velocidade, dos escritórios até o ISP nais próximo.
@@ -82,17 +82,19 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 >
 >O chip é chamado informalmente de cartão SIM, abreviação de <font color="#953734">Subscriber ldentity Module </font>(módulo de identificação do assinante).
 >
->Para reduzir a chance de fraudes, as informações nos cartões SIM também são usadas pela rede de telefonia móvel para autenticar os assinantes e verificar se eles têm permissão para usar a rede. Com UMTS, o aparelho móvel também usa as informações no cartão SIM para verificar se está falando co1n uma rede legítima.
+>Para reduzir a chance de fraudes, as informações nos cartões SIM também são usadas pela rede de telefonia móvel para autenticar os assinantes e verificar se eles têm permissão para usar a rede. Com UMTS, o aparelho móvel também usa as informações no cartão SIM para verificar se está falando com uma rede legítima.
 >
->Outra consideração iinportante é a privacidade. Os sinais sem fio são transn1itidos para todos os receptores vizinhos, de modo que, para dificultar a escuta das conversas, chaves criptográficas no cartão SIM são usadas para encriptar as trans1nissões. Essa técnica oferece un1a priva- cidade muito melhor do que os sistemas 1G, que eram facilmente interceptados, mas não resolve todos os problemas, em virtude das deficiências nos esquemas de encriptação.
+>Outra consideração iinportante é a privacidade. Os sinais sem fio são transmitidos para todos os receptores vizinhos, de modo que, para dificultar a escuta das conversas, chaves criptográficas no cartão SIM são usadas para encriptar as transmissões. Essa técnica oferece un1a priva- cidade muito melhor do que os sistemas 1G, que eram facilmente interceptados, mas não resolve todos os problemas, em virtude das deficiências nos esquemas de encriptação.
 
 ### Comutação de pacotes
 
 - Os principais proponentes da con1utação de pacotes vêm da comunidade da Internet. Em um projeto não orientado a conexões, cada pacote é roteado independenten1ente um do outro.
-- Se alguns roteadores deixarem de funcionar durante un1a sessão de comunicação, nenhum dano será provocado desde que o sistema possa ser recon-
-figurado dina1nica1nente, de 1nodo que os pacotes subse-
-quentes encontre1n algun1a rota até o destino, mesn10 que
-seja diferente daquele que os pacotes anteriores usaram.
+- Se alguns roteadores deixarem de funcionar durante un1a sessão de comunicação, nenhum dano será provocado desde que o sistema possa ser reconfigurado dinamicamente, de modo que os pacotes subsequentes encontrem alguma rota até o destino, mesmo que seja diferente daquele que os pacotes anteriores usaram.
+- Em uma rede de comutação de pacotes, se muitos deles chegarem a um roteador durante um intervalo em particular, o roteador sufocará e provavelmente perderá pacotes.
+- Por fim, o emissor notará isso e reenviará os dados, mas a qualidade do serviço sofre, a menos que as aplicações considerem essa variabilidade.
+
+>[!INFO]
+>A comutação de circuitos pode dar suporte à qualidade de serviço mais facilmente. Estabelecendo uma conexão com antecedência, a sub-rede pode reservar recursos como largura de banda do enlace, melhor espaço de buffer e de CPU do Switch. Se alguém tentar estabelecer uma chamada e não houver recursos suficientes, a chamada é rejeitada e quem liga recebe um sinal de ocupado. Desse modo, quando uma conexão é estabelecida, a conexão receberá um serviço bom.
 
 
 
