@@ -29,5 +29,8 @@ A rede completa, incluindo o backbone e as redes regionais, foi chamada NSFNET. 
 
 Os testes foram mostrando que era necessário que todas estas redes usassem uma “linguagem”, ou protocolo comum. Isso foi resolvido a partir de 1974 com a criação do Transmission Control Program (TCP). Junto com o protocolo IP ele se tornou o TCP/IP, que é a base para todas as conexões à Internet até hoje. Aliás o documento que detalha o TCP, chamado [RFC 675](https://tools.ietf.org/html/rfc675), contém o primeiro uso registrado da palavra _Internet_, referente à uma conexão entre redes – a rede mundial de computadores.
 
-Para facilitar a transição e garantir que todas as redes regionais pudessem se cornunicar entre si, a NSF contratou quatro diferentes operadoras de redes para estabelecer um ponto de acesso de rede, ou <font color="#953734">NAP (Nenvork Access Point).</font>
+Para facilitar a transição e garantir que todas as redes regionais pudessem se cornunicar entre si, a NSF contratou quatro diferentes operadoras de redes para estabelecer um ponto de acesso de rede, ou <font color="#953734">NAP (Network Access Point).</font>
 
+## 
+
+![[Pasted image 20240416065924.png]]
