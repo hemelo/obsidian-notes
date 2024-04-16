@@ -40,3 +40,13 @@ Para facilitar a transição e garantir que todas as redes regionais pudessem se
 - Outra opção para a implantação da última milha envolve o uso de fibra óptica até as residências, usando urna tecnologia conhecida como <font color="#953734">FTTH (Fiber to the Home).</font> 
 - Para empresas em áreas comerciais, pode fazer sentido alugar uma linha de transmissão dedicada, de alta velocidade, dos escritórios até o ISP nais próximo.
 - Chamamos o local em que os pacotes do cliente entram na rede do ISP de ponto de presença, ou <font color="#953734">POP (Point of Presence)</font>
+- Se um pacote é destinado para um host servido diretamente pelo ISP, ele é roteado pelo backbone e entregue ao host. Caso contrário, ele deve ser entregue a outro ISP.
+
+![[Pasted image 20240416070542.png]]
+- As ISPs conectam suas redes para trocar tráfego nos <font color="#953734">IXPs (Internet eXchange Points).</font>
+- Os ISPs conectados são emparelhados (peer). 
+- Existem muitos IXPs em cidades do mundo inteiro. 
+- As redes de ISP se sobrepõem geograficamente. 
+- Um IXP é uma sala cheia de roteadores, pelo menos um por ISP. 
+- Uma LAN na sala conecta todos os roteadores, de modo que os pacotes podem ser encaminhados de qualquer backbone ISP para qualquer outro backbone ISP. 
+- Os IXPs podem ser instalações grandes e independentes, que competem entre si por negócios
