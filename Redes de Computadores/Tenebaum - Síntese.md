@@ -56,3 +56,13 @@ Por convenção, a arquitetura da Internet tem sido vista como uma hierarquia, c
 ![[Pasted image 20240416071856.png]]
 
 O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hipergigantes", incluindo Google, Netflix, Twitch e Amazon, além de CDNs grandes e distribuídas globalmente, corno Akamai, Limelight e Cloudflare. Eles mudaram a arquitetura da Internet mais uma vez. Embora, no passado, esses provedores de conteúdo tivessem que depender de redes de trânsito para entregar conteúdo a ISPs de acesso local, tanto ISPs de acesso quanto provedores de conteúdo se proliferaram e se tornaram tão grandes que muitas vezes se conectam diretan1ente uns aos outros em muitos locais distintos. Às vezes, o caminho comum da Internet será diretamente do seu ISP de acesso ao provedor de conteúdo. Em alguns casos, o provedor de conteúdo até mesmoo hospedará servidores dentro da rede do ISP de acesso.
+
+### Rede Móvel
+
+- <font color="#953734">E-UTRAN (Evolved UMTS Terrestrial Radio Access Network)</font>, que é um nome sofisticado para o protocolo de comunicação por rádio usado pelo ar entre os dispositivo móveis (p. ex ., o telefone celular)
+- Estação-base celular, que agora é chamado de eNodeB. 
+- <font color="#953734">UMTS (Universal Mobile telecommunications System) </font>é o nome formal da rede de telefonia celular.
+- A interface do ar é baseada em <font color="#953734">CDMA (Code Division Multiple Access)</font>
+- A estação-base da rede celular forma, com seu controlador, a rede de acesso por rádio. Essa parte é o lado sem fio da rede de telefonia Lnóvel. O nó controlador ou <font color="#953734">RNC (Radio Network Controller)</font> controla como o espectro é utilizado. A estação-base implementa a interface com o ar.
+
+![[Pasted image 20240416072424.png]]
