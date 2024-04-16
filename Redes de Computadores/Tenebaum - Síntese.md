@@ -15,5 +15,11 @@ Quando tentou descobrir quem tinha "dormido no ponto'', o Presidente Dwight Eise
 <font color="#953734">de pesquisa de defesa, a ARPA, ou Advanced Research Projetcs Agency. </font>A ARPA não tinha cientistas nem laboratórios; de fato, ela não tinha nada além de um escritório e
 de um pequeno orçan1ento (para os padrões do Pentágono).
 A agência realizava seu trabalho oferecendo concessões eS contratos a universidades e empresas cujas ideias lhe pareciam promissoras.
-S
+
 ![[Pasted image 20240415215203.png]]![[Pasted image 20240415215356.png]]
+
+Inicialmente a ARPANET tinha quatro “nós”. Em 1981, já eram mais de 200 computadores conectados à rede, com um novo se juntando a ela a cada 20 dias.
+
+Apesar do crescimento, a ARPANET era apenas “uma” rede. O pulo do gato, que levou à criação da Internet como a conhecemos, foi a conexão dela a outras redes de pesquisa que surgiram mais tarde, como a NSFNet, a NASA Science Network e redes educacionais como a Bitnet e CSNET, que conectavam universidades nos EUA.
+
+Para isso era necessário que todas estas redes usassem uma “linguagem”, ou protocolo comum. Isso foi resolvido a partir de 1974 com a criação do Transmission Control Program (TCP). Junto com o protocolo IP ele se tornou o TCP/IP, que é a base para todas as conexões à Internet até hoje. Aliás o documento que detalha o TCP, chamado [RFC 675](https://tools.ietf.org/html/rfc675), contém o primeiro uso registrado da palavra _Internet_, referente à uma conexão entre redes – a rede mundial de computadores.
