@@ -79,6 +79,16 @@ O ímpeto para essa mudança foi o surgimento de provedores de conteúdo "hiperg
 >Cada rede de telefonia móvel tem um <font color="#953734">HSS (Home Subscriber Server) </font>no núcleo da rede, que sabe o local de cada assinante, bem cotno outras informações de perfil usadas para autenticação e autorização. Desse modo, cada aparelho poderá ser encontrado contatando o HSS.
 >
 >O chip é chamado informalmente de cartão SIM, abreviação de <font color="#953734">Subscriber ldentity Module </font>(módulo de identificação do assinante).
+>
+>Para reduzir a chance de fraudes, as informações nos cartões SIM também são usadas pela rede de telefonia móvel para autenticar os assinantes e verificar se eles têm permissão para usar a rede. Com UMTS, o aparelho móvel também usa as informações no cartão SIM para verificar se está falando co1n uma rede legítima.
+>
+>Outra consideração iinportante é a privacidade. Os sinais sem fio são transn1itidos para todos os receptores vizinhos, de modo que, para dificultar a escuta das conversas, chaves criptográficas no cartão SIM são usadas para encriptar as trans1nissões. Essa técnica oferece un1a priva- cidade muito melhor do que os sistemas 1G, que eram facilmente interceptados, mas não resolve todos os problemas, em virtude das deficiências nos esquemas de encriptação.
+
+
+
+
+
+
 
 
 
